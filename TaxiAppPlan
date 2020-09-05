@@ -1,0 +1,16 @@
+root 
+|
+|_ resources
+|          |_ images
+|
+|_ scripts
+|        |_ script.js
+|
+|_ components
+|           |_ presets
+|                    |_ body.html
+|
+|_ styles
+|       |_ style.css
+|
+|_ index.html
